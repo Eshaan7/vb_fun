@@ -7,6 +7,6 @@ bgvoice_shutdown_prank :
  A vbs file that speaks and says "I'm tired please shut me down or I will format my self"
 
 whatsapp_crash:
-DDos someone's whatspp. 
+DDos someone's whatsapp. 
 For more info visit: http://null-byte.wonderhowto.com/how-to/to-bomb-someones-whatsapp-with-vbscript-2-0-0171485/
 
